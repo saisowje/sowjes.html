@@ -1,0 +1,12 @@
+#heading{
+    text-align: center;
+    color: black;
+    background-color: aquamarine;
+}
+#btn{
+    width: 100px;
+    background-color: black;
+    color: bisque;
+    padding: 10px;
+
+}
